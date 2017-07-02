@@ -1,0 +1,6 @@
+name: Addon_WorldBorder
+main: cf.wayzer.skyblock_addon.SkyBlockAddon
+depend: [ASkyBlock]
+version: 1.0
+author: Way__Zer
+description: 空岛扩展-边界系统!
